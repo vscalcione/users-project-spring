@@ -1,0 +1,21 @@
+Una societa vuole gestire le attività assegnate ai suoi dipendenti.
+Ogni dipendente ha un numero di matricola, nome, cognome
+Ogni attività è identificata da un uuid ed ha un nomeAttività, dataInizio e dataFine.
+
+Sviluppare un'applicazione web per fornire le seguenti funzionalità
+- Lista attività
+- aggiungi attività
+- modifica attività
+- elimina attività
+
+- Lista dipendenti
+- aggiungi dipendente
+- modifica attività
+- elimina attività
+
+BONUS
+- assegna attività
+	Pagina che a partire da un dipendente (funzionalità accessibile dalla lista dipendenti)
+	permette di assegnare una o più attività ad un dipendente
+- dettaglio attività
+	Pagina che visualizza i dipendenti associati ad un'attività
